@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\helpers",
+    "\\rooms",
+    "\\rooms\\customLogic",
+    "\\rooms\\schema"
+  ],
+  "SelectedNode": "\\rooms\\schema\\ColyseusRoomState.ts",
+  "PreviewInSolutionExplorer": false
+}

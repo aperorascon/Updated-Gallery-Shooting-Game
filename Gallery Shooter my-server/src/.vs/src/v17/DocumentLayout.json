@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\Minor Bit Server Server\\my-server\\my-server\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\Minor Bit Server Server\\my-server\\my-server\\src\\app.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\Minor Bit Server Server\\my-server\\my-server\\src\\rooms\\customLogic\\shootingGallery.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:rooms\\customLogic\\shootingGallery.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\Minor Bit Server Server\\my-server\\my-server\\src\\rooms\\ShootingGalleryRoom.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:rooms\\ShootingGalleryRoom.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\Minor Bit Server Server\\my-server\\my-server\\src\\index.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.ts",
+              "DocumentMoniker": "H:\\Minor Bit Server Server\\my-server\\my-server\\src\\index.ts",
+              "RelativeDocumentMoniker": "index.ts",
+              "ToolTip": "H:\\Minor Bit Server Server\\my-server\\my-server\\src\\index.ts",
+              "RelativeToolTip": "index.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-19T20:53:34.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.config.ts",
+              "DocumentMoniker": "H:\\Minor Bit Server Server\\my-server\\my-server\\src\\app.config.ts",
+              "RelativeDocumentMoniker": "app.config.ts",
+              "ToolTip": "H:\\Minor Bit Server Server\\my-server\\my-server\\src\\app.config.ts",
+              "RelativeToolTip": "app.config.ts",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwCwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-19T20:47:32.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "shootingGallery.ts",
+              "DocumentMoniker": "H:\\Minor Bit Server Server\\my-server\\my-server\\src\\rooms\\customLogic\\shootingGallery.ts",
+              "RelativeDocumentMoniker": "rooms\\customLogic\\shootingGallery.ts",
+              "ToolTip": "H:\\Minor Bit Server Server\\my-server\\my-server\\src\\rooms\\customLogic\\shootingGallery.ts",
+              "RelativeToolTip": "rooms\\customLogic\\shootingGallery.ts",
+              "ViewState": "AgIAALcAAAAAAAAAAAAlwMsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-19T20:43:40.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShootingGalleryRoom.ts",
+              "DocumentMoniker": "H:\\Minor Bit Server Server\\my-server\\my-server\\src\\rooms\\ShootingGalleryRoom.ts",
+              "RelativeDocumentMoniker": "rooms\\ShootingGalleryRoom.ts",
+              "ToolTip": "H:\\Minor Bit Server Server\\my-server\\my-server\\src\\rooms\\ShootingGalleryRoom.ts",
+              "RelativeToolTip": "rooms\\ShootingGalleryRoom.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-19T20:43:39.535Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
